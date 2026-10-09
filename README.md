@@ -2,7 +2,7 @@
 Al Khourdajie, A.*, Gambhir, A., Keppo, I., Frilingou, N., Mittal, S., Van de Ven, D-J., Fragkos, P., Wells, C., Schoenberg, W. A., McJeon, H., Byers, E., Peters, G.P., McCollum, D.L., Zisarou, E., Smith, C., Westphal, M., Hawkes, A., Nikas, A.
 
 ## Introduction
-This repository contains the script for the figures in the above paper, under review with Nature Climate Change. 
+This repository contains the script for the figures in the above paper, submitted to Futures. 
 
 ## Software
 Python 3.12.5
